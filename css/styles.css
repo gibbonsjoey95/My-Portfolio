@@ -399,7 +399,9 @@ header {
 
 .portfolio__item {
   background: var(--clr-accent);
+  
   overflow: hidden;
+  object-fit: fill;
 }
 
 .portfolio__img {
